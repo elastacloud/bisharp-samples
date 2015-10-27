@@ -1,0 +1,1 @@
+C:\src\powerbi\bisharp\src\samples\resourceManagement.Web\obj\Debug\resourceManagement.Web.csprojResolveAssemblyReference.cache
