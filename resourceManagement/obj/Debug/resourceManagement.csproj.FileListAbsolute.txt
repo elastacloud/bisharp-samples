@@ -42,17 +42,3 @@ C:\src\powerbi\bisharp\src\samples\resourceManagement\bin\Debug\RestSharp.xml
 C:\src\powerbi\bisharp\src\samples\resourceManagement\obj\Debug\resourceManagement.csprojResolveAssemblyReference.cache
 C:\src\powerbi\bisharp\src\samples\resourceManagement\obj\Debug\resourceManagement.exe
 C:\src\powerbi\bisharp\src\samples\resourceManagement\obj\Debug\resourceManagement.pdb
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\resourceManagement.exe.config
-C:\src\powerbi\bisharp-samples\resourceManagement\obj\Debug\resourceManagement.exe
-C:\src\powerbi\bisharp-samples\resourceManagement\obj\Debug\resourceManagement.pdb
-C:\src\powerbi\bisharp-samples\resourceManagement\obj\Debug\resourceManagement.csprojResolveAssemblyReference.cache
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\resourceManagement.exe
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\resourceManagement.pdb
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\BISharp.dll
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\Newtonsoft.Json.dll
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\RestSharp.dll
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\Newtonsoft.Json.xml
-C:\src\powerbi\bisharp-samples\resourceManagement\bin\Debug\RestSharp.xml

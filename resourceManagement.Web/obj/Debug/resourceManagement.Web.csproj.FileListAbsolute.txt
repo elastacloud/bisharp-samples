@@ -1,5 +1,4 @@
 C:\src\powerbi\bisharp\src\samples\resourceManagement.Web\obj\Debug\resourceManagement.Web.csprojResolveAssemblyReference.cache
-C:\src\powerbi\bisharp-samples\resourceManagement.Web\obj\Debug\resourceManagement.Web.csprojResolveAssemblyReference.cache
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\WebApp-RoleClaims-DotNet.dll.config
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\WebApp-RoleClaims-DotNet.dll
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\WebApp-RoleClaims-DotNet.pdb
@@ -95,5 +94,6 @@ C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\ko\System.Spatial.reso
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\ru\System.Spatial.resources.dll
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\zh-Hans\System.Spatial.resources.dll
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\src\powerbi\bisharp-samples\resourceManagement.Web\obj\Debug\resourceManagement.Web.csprojResolveAssemblyReference.cache
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\obj\Debug\WebApp-RoleClaims-DotNet.dll
 C:\src\powerbi\bisharp-samples\resourceManagement.Web\obj\Debug\WebApp-RoleClaims-DotNet.pdb
